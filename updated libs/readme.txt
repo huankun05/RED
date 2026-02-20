@@ -1,0 +1,1 @@
+Both 'base_any2vec.py' and 'word2vec.py' are only designed for Python2. We updated these two files so that they can be used in the Python3 envrionment.

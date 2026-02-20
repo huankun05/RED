@@ -1,0 +1,4 @@
+【实验描述】：记录最终用于降维可视化的 Embedding 生成耗时。
+
+Original RED 生成耗时:  1.2225 s
+Optimized RED 生成耗时: 0.0583 s
